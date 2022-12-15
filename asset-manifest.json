@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Convertidor-de-Unidades/static/css/main.aa2d7e71.css",
+    "main.js": "/Convertidor-de-Unidades/static/js/main.e9e6a8cc.js",
+    "index.html": "/Convertidor-de-Unidades/index.html",
+    "main.aa2d7e71.css.map": "/Convertidor-de-Unidades/static/css/main.aa2d7e71.css.map",
+    "main.e9e6a8cc.js.map": "/Convertidor-de-Unidades/static/js/main.e9e6a8cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2d7e71.css",
+    "static/js/main.e9e6a8cc.js"
+  ]
+}
