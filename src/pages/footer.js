@@ -3,8 +3,8 @@ import "./footer.css";
 export function Footer() {
   return (
     <div className="footer">
-      <p className="info">Terms of service</p>
-      <p className="info">Privacy policy</p>
+      <p className="info"> Copyright &copy; | </p>
+      <p className="info">Enrique Donaire 2022</p>
     </div>
   );
 }
